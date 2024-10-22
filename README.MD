@@ -30,3 +30,5 @@ Es el primer bosquejo del proyecto, la primera idea, puede ser editable a futuro
 La arquitectura se realizo pensando en un proyecto con microservicios pensando a ser escalable a futuro
 ##Manual
 Se va construyendo un manual con el paso a paso para tener en cuenta la relizacion del proyecto
+##Diagrama de BBDD
+Aqui se ve la arquitectura del diagrama de bbdd creada en diagram.io 
