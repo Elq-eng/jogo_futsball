@@ -1,20 +1,20 @@
 ### Jogo Futsball
 
--  Jogo Futsball es una plataforma web diseñada para la gestión integral de torneos de futsal. Ofrece una solución completa para registrar, organizar y controlar múltiples torneos de manera autónoma, brindando una mejor experiencia tanto para administradores como participantes. La plataforma está preparada para gestionar competiciones de hasta 24 equipos por torneo, permitiendo la administración de varios torneos simultáneamente.
+-  Jogo Futsball is a web platform designed for the comprehensive management of futsal tournaments. It offers a complete solution for registering, organizing, and controlling multiple tournaments autonomously, providing a better experience for both administrators and participants. The platform is prepared to manage competitions with up to 24 teams per tournament, allowing the administration of multiple tournaments simultaneously.
 
 # Características Principales
 
-1. Gestión de Torneos y Equipos
-Administración de equipos y jugadores, seguimiento de torneos en curso y finalizados.
+1. Tournament and Team Management
+Management of teams and players, tracking ongoing and completed tournaments.
 
-2. Sistema de Clasificación y Playoff
-Automatización de la clasificación de equipos y organización de las rondas de eliminación.
+2. Ranking and Playoff System
+Automation of team rankings and organization of elimination rounds.
 
-3. Historial de Torneos
-Registro y consulta de torneos anteriores, con acceso a resultados y estadísticas detalladas.
+3. Tournament History
+Record and consultation of past tournaments, with access to detailed results and statistics.
 
-4. Notificaciones y Recordatorios
-Sistema de alertas para informar sobre partidos, pagos y eventos relevantes.
+4. Notifications and Reminders
+Alert system to inform about matches, payments, and relevant events.
 
 **Table of Contents**
 
@@ -22,13 +22,15 @@ Sistema de alertas para informar sobre partidos, pagos y eventos relevantes.
 
 [TOC]
 
-#Documentos
-En esta carpeta se guarda toda la documentacion relacionada con el proyecto
-##Mapa mental
-Es el primer bosquejo del proyecto, la primera idea, puede ser editable a futuro
-##arquitectura
-La arquitectura se realizo pensando en un proyecto con microservicios pensando a ser escalable a futuro
-##Manual
-Se va construyendo un manual con el paso a paso para tener en cuenta la relizacion del proyecto
-##Diagrama de BBDD
-Aqui se ve la arquitectura del diagrama de bbdd creada en diagram.io 
+# Documents 
+This folder contains all the documentation related to the project. 
+## Mind Map 
+This is the first draft of the project, the initial idea, and can be edited in the future. 
+## Architecture 
+The architecture was designed with microservices in mind, aiming for scalability in the future. 
+## Manual 
+A manual is being developed step-by-step to guide the project implementation process. 
+## Database Diagram 
+This section shows the database diagram architecture created using diagram.io.
+## Sprint Backlog
+This section is to create a sprint backlog, it is basic to build the platform.
